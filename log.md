@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: Monday, March 29, 2021
+### Day 0: Sunday, March 28, 2021
 
 **Today's Progress**: I started 100DaysOfCode. 
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-### Day 1: Tuesday, March 30, 2021
+### Day 1: Monday, March 29, 2021
 
 **Today's Progress**:
 - Added React to my project
