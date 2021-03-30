@@ -10,7 +10,7 @@
 
 <br/>
 
-### Day 0: 2021年 3月29日 (月)
+### Day 1: 2021年 3月29日 (月)
 
 **Today's Progress**:
 - プロジェクトにReactを追加した
@@ -21,3 +21,18 @@
 とりあえず実装できたが、コードの意味がわかってないので調べる
 
 **Link to work:** [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 2: 2021年 3月30日 (火)
+
+**Today's Progress**:
+- reactからrailsへaxiosでpostリクエストする機能を実装中
+
+**Thoughts:**
+<br>
+でも、csrfに関する問題が起きてまだそれを解決できていない。
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
