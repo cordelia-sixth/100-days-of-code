@@ -36,3 +36,18 @@ However, there was a problem with csrf and I haven't solved it yet. I'll cool do
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 3: Wednes, March 31, 2021
+
+**Today's Progress**:
+- implemented a post request function from react to rails with axios
+
+**Thoughts:**
+<br/>
+I just skipped the csrf check in rails, so I'll build a solid csrf countermeasure.
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
