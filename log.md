@@ -39,7 +39,7 @@ However, there was a problem with csrf and I haven't solved it yet. I'll cool do
 
 <br/>
 
-### Day 3: Wednes, March 31, 2021
+### Day 3: Wednesday, March 31, 2021
 
 **Today's Progress**:
 - implemented a post request function from react to rails with axios
@@ -47,6 +47,21 @@ However, there was a problem with csrf and I haven't solved it yet. I'll cool do
 **Thoughts:**
 <br/>
 I just skipped the csrf check in rails, so I'll build a solid csrf countermeasure.
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 4: Thursday, April 1, 2021
+
+**Today's Progress**:
+- implemented a DELETE request with axios.
+
+**Thoughts:**
+<br/>
+The next step is to implement the update function and complete a simple CRUD.
 
 **Link to work:**
 <br/>
