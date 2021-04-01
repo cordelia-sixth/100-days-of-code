@@ -51,3 +51,18 @@
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 4: 2021年 4月1日 (木)
+
+**Today's Progress**:
+- delete requestを実装した。
+
+**Thoughts:**
+<br>
+次はupdate 機能も実装して単純なCRUDの完成だ。
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
