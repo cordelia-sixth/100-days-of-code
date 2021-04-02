@@ -66,3 +66,14 @@
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 5: 2021年 4月2日 (金)
+
+**Today's Progress**:
+- react-router-domを使った画面遷移
+
+**Thoughts:**
+<br>
+次はCRUD機能と組み合わせる
