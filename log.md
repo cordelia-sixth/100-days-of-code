@@ -66,3 +66,14 @@ The next step is to implement the update function and complete a simple CRUD.
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 5: Fryday, April 2, 2021
+
+**Today's Progress**:
+- Screen transition using react-router-dom
+
+**Thoughts:**
+<br/>
+The next step is to combine it with the CRUD function
