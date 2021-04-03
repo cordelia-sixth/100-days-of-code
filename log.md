@@ -77,3 +77,18 @@ The next step is to implement the update function and complete a simple CRUD.
 **Thoughts:**
 <br/>
 The next step is to combine it with the CRUD function
+
+<br/>
+
+### Day 6: Saturday, April 3, 2021
+
+**Today's Progress**:
+- implemented display users with react-router-dom, useState, useEffect, useRef
+
+**Thoughts:**
+<br/>
+It took me a while to understand the basic operation of react-router-dom.
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
