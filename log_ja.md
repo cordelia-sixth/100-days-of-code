@@ -77,3 +77,18 @@
 **Thoughts:**
 <br>
 次はCRUD機能と組み合わせる
+
+<br/>
+
+### Day 6: 2021年 4月3日 (土)
+
+**Today's Progress**:
+- react-router-dom, useState, useEffect, useRefを組み合わせてユーザ一覧を表示させた
+
+**Thoughts:**
+<br>
+react-router-domの基本動作を理解するまで時間がかかった
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
