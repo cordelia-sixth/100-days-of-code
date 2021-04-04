@@ -92,3 +92,14 @@ react-router-domの基本動作を理解するまで時間がかかった
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 7: 2021年 4月4日 (日)
+
+**Today's Progress**:
+- URLパラメータを使って画面遷移する機能を実装中
+
+**Thoughts:**
+<br>
+もう少し
