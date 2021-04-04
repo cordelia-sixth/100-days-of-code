@@ -92,3 +92,14 @@ It took me a while to understand the basic operation of react-router-dom.
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 7: Sunday, April 4, 2021
+
+**Today's Progress**:
+- Implementing a function to transition screens using the url parameter
+
+**Thoughts:**
+<br/>
+More to come!
