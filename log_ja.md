@@ -103,3 +103,12 @@ react-router-domの基本動作を理解するまで時間がかかった
 **Thoughts:**
 <br>
 もう少し
+
+### Day 8: 2021年 4月5日 (月)
+
+**Today's Progress**:
+- URLパラメータを使って画面遷移する機能を実装中
+
+**Thoughts:**
+<br>
+パラメータは渡せるが、useParamsを使って受け取れない。
