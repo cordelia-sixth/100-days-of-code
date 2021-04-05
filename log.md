@@ -103,3 +103,14 @@ It took me a while to understand the basic operation of react-router-dom.
 **Thoughts:**
 <br/>
 More to come!
+
+<br/>
+
+### Day 8: Monday, April 5, 2021
+
+**Today's Progress**:
+- Implementing a function to transition screens using the url parameter
+
+**Thoughts:**
+<br/>
+Parameters can be passed, but they cannot be accepted using useParams.
