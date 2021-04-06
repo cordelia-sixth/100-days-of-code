@@ -114,3 +114,18 @@ More to come!
 **Thoughts:**
 <br/>
 Parameters can be passed, but they cannot be accepted using useParams.
+
+<br/>
+
+### Day 9: Tuesday, April 6, 2021
+
+**Today's Progress**:
+- Completed the user creation function
+
+**Thoughts:**
+<br/>
+Learned how to handle input form data in react. I did it!!!
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
