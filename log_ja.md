@@ -112,3 +112,18 @@ react-router-domの基本動作を理解するまで時間がかかった
 **Thoughts:**
 <br>
 パラメータは渡せるが、useParamsを使って受け取れない。
+
+<br/>
+
+### Day 9: 2021年 4月6日 (火)
+
+**Today's Progress**:
+- ユーザー作成機能を完成させた
+
+**Thoughts:**
+<br>
+reactにおける入力フォームのデータの取り扱いを学んだ!
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
