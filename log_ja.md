@@ -4,7 +4,7 @@
 
 **Today's Progress**: 100DaysOfCodeを始めました。
 
-**Thoughts:** ポートフォリオを作成していきます。すでにいくつか進捗があるので少し省略します。
+**Thoughts:** プロダクトを作成していきます。すでにいくつか進捗があるので少し省略します。
 
 **Link to work:** [draft_app](https://github.com/cordelia-sixth/draft_app)
 
