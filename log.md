@@ -129,3 +129,18 @@ Learned how to handle input form data in react. I did it!!!
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 10: Wendnesday, April 7, 2021
+
+**Today's Progress**:
+- Implemented the user delete function
+
+**Thoughts:**
+<br/>
+The next step is to make the function re-render after execution.
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
