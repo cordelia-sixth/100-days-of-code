@@ -144,3 +144,20 @@ The next step is to make the function re-render after execution.
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 11: Thursday, April 8, 2021
+
+**Today's Progress**:
+- Added the ability to display the user details page
+
+Flow:
+1. Add the user id to the URL.
+2. Get the id from the browser history.
+3. Prepare the url and request it to rails.
+4. Get the user data from the DB based on the id.
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
