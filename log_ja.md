@@ -142,3 +142,20 @@ reactにおける入力フォームのデータの取り扱いを学んだ!
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 11: 2021年 4月8日 (木)
+
+**Today's Progress**:
+- ユーザー詳細ページを表示できるようにした。
+
+処理の流れ
+1. urlにユーザーidを追加。
+2. ブラウザヒストリーからそのidを取得。
+3. urlを整えてrailsにリクエスト。
+4. idを元にDBからユーザーデータを取得。
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
