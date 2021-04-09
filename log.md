@@ -161,3 +161,15 @@ Flow:
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 12: Fliday, April 9, 2021
+
+**Today's Progress**:
+- Added a back button on the user creation page
+- Added a page to update user information
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
