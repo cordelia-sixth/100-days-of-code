@@ -171,3 +171,15 @@ reactにおける入力フォームのデータの取り扱いを学んだ!
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 13: 2021年 4月10日 (土)
+
+**Today's Progress**:
+- ユーザー情報を変更する機能を実装した
+- ユーザーを削除した後、ユーザー一覧を更新するようにした
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
