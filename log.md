@@ -173,3 +173,15 @@ Flow:
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 13: Saturday, April 10, 2021
+
+**Today's Progress**:
+- Implemented the function to change user information
+- Update the user list after deleting a user
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
