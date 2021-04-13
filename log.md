@@ -188,11 +188,33 @@ Flow:
 
 <br/>
 
-### Day 14: Subday, April 11, 2021
+### Day 14: Sunday, April 11, 2021
 
 **Today's Progress**:
 - Created back button in the user details page
 - Update the user list after changing user infomation
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 15: Monday, April 12, 2021
+
+**Today's Progress**:
+- Login function is being implemented
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 16: Tuesday, April 13, 2021
+
+**Today's Progress**:
+- Login function is being implemented
 
 **Link to work:**
 <br/>
