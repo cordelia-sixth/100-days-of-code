@@ -195,3 +195,25 @@ reactにおける入力フォームのデータの取り扱いを学んだ!
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 15: 2021年 4月12日 (月)
+
+**Today's Progress**:
+- ログイン機能を実装中
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 15: 2021年 4月13日 (火)
+
+**Today's Progress**:
+- ログイン機能を実装中
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
