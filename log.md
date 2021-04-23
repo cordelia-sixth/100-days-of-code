@@ -219,3 +219,88 @@ Flow:
 **Link to work:**
 <br/>
 [draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 17: Wednesday, April 14, 2021
+
+**Today's Progress**:
+- Created login and logout functions
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 18: Thursday, April 15, 2021
+
+**Today's Progress**:
+- Changed so that the page can be reloaded
+- Added 404 page
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 19: Friday, April 16, 2021
+
+**Today's Progress**:
+- Styled using the css module
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 20: Saturday, April 17, 2021
+
+**Today's Progress**:
+- Implemented a function to search users and display them
+
+**Link to work:**
+<br/>
+[draft_app](https://github.com/cordelia-sixth/draft_app/tree/add_axios)
+
+<br/>
+
+### Day 21: Sunday, April 18, 2021
+
+**Today's Progress**:
+- Chat function is being implemented
+
+<br/>
+
+### Day 22: Monday, April 19, 2021
+
+**Today's Progress**:
+- Chat function is being implemented
+
+<br/>
+
+### Day 23: Tuesday, April 20, 2021
+
+**Today's Progress**:
+- Chat function is being implemented
+
+<br/>
+
+### Day 24: Wednesday, April 21, 2021
+
+**Today's Progress**:
+- Implementing the chat using rails with action cable
+
+**Thoughts:**
+<br/>
+I'm not sure how chat works anymore, so I'm going to try to use the action cable in the rails.
+
+<br/>
+
+### Day 25: Thursday, April 22, 2021
+
+**Today's Progress**:
+- Implemented the chat function
+
